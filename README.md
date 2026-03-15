@@ -139,7 +139,7 @@ bank-customer-churn-prediction
 │
 ├── bank-customer-churn-prediction.ipynb
 ├── README.md
-└── dataset (if included)
+└── dataset 
 ```
 
 ---
