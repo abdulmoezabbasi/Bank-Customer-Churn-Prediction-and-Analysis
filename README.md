@@ -137,7 +137,7 @@ These insights can help financial institutions design targeted retention strateg
 ```
 bank-customer-churn-prediction
 │
-├── bank-customer-churn-prediction-and-analysis.ipynb
+├── bank-customer-churn-prediction.ipynb
 ├── README.md
 └── dataset (if included)
 ```
